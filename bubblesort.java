@@ -22,7 +22,7 @@ public class bubblesort {
   public static void main(String[] args){
     int arr[]={9,6,3,7,2};
     int[] res=bsrt(arr);
-    System.out.print("the sorted array is:"+Arrays.toString(arr));
+    System.out.print("the sorted array is:"+Arrays.toString(res));
 
   }
 }
